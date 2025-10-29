@@ -91,7 +91,7 @@ body {
   min-height: 120vh;
   display: flex;
   align-items: center;
-  background-image: url("/img/burger.jpg");
+  background-image: url("../img/burger.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
